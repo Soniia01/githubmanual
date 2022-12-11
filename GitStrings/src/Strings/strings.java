@@ -14,6 +14,6 @@ public class strings {
 	    // join two strings
 	    String joinedString = first.concat(second);
 	    System.out.println("Joined String: " + joinedString);
-	    
+	    System.out.println("oke");
 	}
 }
